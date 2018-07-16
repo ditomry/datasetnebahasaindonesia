@@ -1,0 +1,586 @@
+ANRI
+Akademi Ilmu Pengetahuan Indonesia
+Arsip Nasional Republik Indonesia
+BIG
+BIN
+BKKBN
+BKN
+BKPM
+BMKG
+BNN
+BNP-2-TKI
+BNPB
+BNPT
+BNSP
+BP Kapet
+BPK
+BPKP
+BPN
+BPOM
+BPPT
+BPS
+BSANK
+BSN
+Badan Amil Zakat Nasional
+Badan Amil Zakat Nasional
+Badan Benih Nasional
+Badan Informasi Geospasial
+Badan Intelijen Negara
+Badan Kebijaksanaan dan Pengendalian Perumahan dan Pemukiman Nasional
+Badan Kepegawaian Negara
+Badan Kependudukan dan Keluarga Berencana Nasional
+Badan Koordinasi Keamanan Laut
+Badan Koordinasi Penanaman Modal
+Badan Koordinasi Penataan Ruang Nasional
+Badan Meteorologi, Klimatologi, dan Geofisika
+Badan Narkotika Nasional
+Badan Nasional Penanggulangan Bencana
+Badan Nasional Penanggulangan Terorisme
+Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia
+Badan Nasional Pengelola Perbatasan
+Badan Nasional Sertifikasi Profesi
+Badan Olah Raga Profesional
+Badan Pelaksana Pengelola Masjid Istiqlal
+Badan Pemeriksa Keuangan
+Badan Penanggulangan Lumpur Sidoarjo
+Badan Pendukung Pengembangan Sistem Penyediaan Air Minum
+Badan Pengawas Obat dan Makanan
+Badan Pengawas Pasar Tenaga Listrik
+Badan Pengawas Pemilihan Umum
+Badan Pengawas Tenaga Nuklir
+Badan Pengawasan Keuangan dan Pembangunan
+Badan Pengelola Dana Abadi Umat
+Badan Pengembangan Kawasan Ekonomi Terpadu
+Badan Pengembangan Wilayah Surabaya-Madura
+Badan Pengkajian dan Penerapan Teknologi
+Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam
+Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Bintan
+Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Karimun
+Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Sabang
+Badan Perencanaan Pembangunan Nasional
+Badan Perencanaan Pembangunan Nasional
+Badan Perlindungan Konsumen Nasional
+Badan Pertanahan Nasional
+Badan Pertimbangan Kepegawaian
+Badan Pertimbangan Kesehatan Nasional
+Badan Pertimbangan Perfilman Nasional
+Badan Pusat Statistik
+Badan SAR Nasional
+Badan SAR Nasional
+Badan Standardisasi Nasional
+Badan Standarisasi dan Akreditasi Nasional Keolahragaan
+Badan Tenaga Nuklir Nasional
+Badan Tenaga Nuklir Nasional
+Bakorkamla
+Bapeten
+Bapopi
+Bappenas
+Basarnas
+Batan
+Bawaslu
+Baznas
+DN KEK
+DPD
+DPOD
+DPR
+DRN
+Dekopin
+Detiknas
+Dewan Buku Nasional
+Dewan Energi Nasional
+Dewan Gula Nasional
+Dewan Jaminan Sosial Nasional
+Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam
+Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Bintan
+Dewan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Karimun
+Dewan Kelautan Indonesia
+Dewan Ketahanan Nasional
+Dewan Ketahanan Nasional
+Dewan Ketahanan Pangan
+Dewan Koperasi Indonesia
+Dewan Nasional Kawasan Ekonomi Khusus
+Dewan Nasional Kawasan Perdagangan Bebas dan Pelabuhan Bebas
+Dewan Nasional Perubahan Iklim
+Dewan Penerbangan Antariksa Nasional
+Dewan Pengembangan Kawasan Timur Indonesia
+Dewan Pengupahan Nasional
+Dewan Pers
+Dewan Pertimbangan Otonomi Daerah
+Dewan Pertimbangan Presiden
+Dewan Pertimbangan Presiden
+Dewan Perwakilan Daerah
+Dewan Perwakilan Rakyat
+Dewan Riset Nasional
+Dewan Sumber Daya Air Nasional
+Dewan Teknologi Informasi dan Komunikasi Nasional
+KAN
+KEN
+KHN
+KIN
+KNKT
+KONI
+KPAI
+KPI
+KPK
+KPU
+KY
+Kejagung RI
+Kejaksaan Agung
+Kejaksaan Agung Republik Indonesia
+Kemen BUMN
+Kemen ESDM
+Kemen KP
+Kemen KUKM
+Kemen LH
+Kemen PANRB
+Kemen PDT
+Kemen PPN
+Kemen PPPA
+Kemen PU
+Kemenag
+Kemenakertrans
+Kemendag
+Kemendagri
+Kemendikbud
+Kemenhan
+Kemenhub
+Kemenhut
+Kemenkes
+Kemenkeu
+Kemenko Ekon
+Kemenko Kesra
+Kemenko Polhukam
+Kemenkominfo
+Kemenkumham
+Kemenlu
+Kemenparekraf
+Kemenpera
+Kemenperin
+Kemenpora
+Kemenristek
+Kemensetneg
+Kemensos
+Kementan
+Kementerian Agama
+Kementerian Agama
+Kementerian Badan Usaha Milik Negara
+Kementerian Badan Usaha Milik Negara
+Kementerian Dalam Negeri
+Kementerian Dalam Negeri
+Kementerian Energi dan Sumber Daya Mineral
+Kementerian Energi dan Sumber Daya Mineral
+Kementerian Hukum dan Hak Asasi Manusia
+Kementerian Hukum dan Hak Asasi Manusia
+Kementerian Kehutanan
+Kementerian Kehutanan
+Kementerian Kelautan dan Perikanan
+Kementerian Kelautan dan Perikanan
+Kementerian Kesehatan
+Kementerian Kesehatan
+Kementerian Keuangan
+Kementerian Keuangan
+Kementerian Komunikasi dan Informatika
+Kementerian Koordinator Bidang Kesejahteraan Rakyat
+Kementerian Koordinator Bidang Kesejahteraan Rakyat
+Kementerian Koordinator Bidang Perekonomian
+Kementerian Koordinator Bidang Perekonomian
+Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan
+Kementerian Koperasi dan Usaha Kecil dan Menengah
+Kementerian Lingkungan Hidup
+Kementerian Lingkungan Hidup
+Kementerian Luar Negeri
+Kementerian Luar Negeri
+Kementerian Pariwisata dan Ekonomi Kreatif
+Kementerian Pariwisata dan Ekonomi Kreatif
+Kementerian Pekerjaan Umum
+Kementerian Pekerjaan Umum
+Kementerian Pembangunan Daerah Tertinggal
+Kementerian Pembangunan Daerah Tertinggal
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+Kementerian Pemuda dan Olah Raga
+Kementerian Pemuda dan Olah Raga
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+Kementerian Pendidikan dan Kebudayaan
+Kementerian Pendidikan dan Kebudayaan
+Kementerian Perdagangan
+Kementerian Perdagangan
+Kementerian Perencanaan Pembangunan Nasional
+Kementerian Perencanaan Pembangunan Nasional
+Kementerian Perhubungan
+Kementerian Perhubungan
+Kementerian Perindustrian
+Kementerian Perindustrian
+Kementerian Pertahanan
+Kementerian Pertahanan
+Kementerian Pertanian
+Kementerian Pertanian
+Kementerian Perumahan Rakyat
+Kementerian Riset dan Teknologi
+Kementerian Sekretariat Negara
+Kementerian Sosial
+Kementerian Sosial
+Kementerian Tenaga Kerja dan Transmigrasi
+Kementerian Tenaga Kerja dan Transmigrasi
+Kepolisian Negara Republik Indonesia
+Kepolisian Negara Republik Indonesia
+Komas Haji
+Komisi Banding Merek
+Komisi Banding Paten
+Komisi Hukum Nasional
+Komisi Informasi Pusat
+Komisi Kejaksaan
+Komisi Kepolisian Nasional
+Komisi Kepolisian Nasional
+Komisi Nasional Anti Kekerasan Terhadap Perempuan
+Komisi Nasional Hak Asasi Manusia
+Komisi Nasional Hak Asasi Manusia
+Komisi Nasional Lanjut Usia
+Komisi Nasional Lanjut Usia
+Komisi Pemberantasan Korupsi
+Komisi Pemilihan Umum
+Komisi Penanggulangan AIDS Nasional
+Komisi Pengawas Haji Indonesia
+Komisi Pengawas Persaingan Usaha
+Komisi Penyiaran Indonesia
+Komisi Perlindungan Anak Indonesia
+Komisi Yudisial
+Komite Akreditasi Nasional
+Komite Aksi Nasional Penghapusan Bentuk-Bentuk Pekerjaan Terburuk Untuk Anak
+Komite Antar Departemen Bidang Kehutanan
+Komite Anti Dumping Nasional
+Komite Ekonomi Nasional
+Komite Inovasi Nasional
+Komite Nasional Keselamatan Transportasi
+Komite Nasional Pengendalian Flu Burung dan Kesiapsiagaan Menghadapi Pandemi Influenza
+Komite Olah Raga Nasional Indonesia
+Komite Pengamanan Perdagangan Indonesia
+Komite Pengarah Pengembangan Kawasan Ekonomi Khusus di Pulau Batam, Pulau Bintan, dan Pulau Karimun
+Komite Percepatan dan Perluasan Pembangunan Ekonomi Indonesia
+Komite Privatisasi Perusahaan Perseroan
+Komite Standar Akuntansi Pemerintah
+Komite Standar Nasional untuk Satuan Ukuran
+Komnas AKP
+Komnas HAM
+Komnas Lansia
+Kompolnas
+Konsil Kedokteran Indonesia
+LAN
+LIPI
+LKPP
+LPP RRI
+LPP TVRI
+LPSK
+Lapan
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+Lembaga Penyiaran Publik Radio Republik Indonesia
+Lembaga Penyiaran Publik Televisi Republik Indonesia
+Lembaga Administrasi Negara
+Lembaga Ilmu Pengetahuan Indonesia
+Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah
+Lembaga Kerja Sama Tripartit
+Lembaga Ketahanan Nasional
+Lembaga Ketahanan Nasional
+Lembaga Koordinasi dan Pengendalian Peningkatan Kesejahteraan Sosial Penyandang Cacat
+Lembaga Pemerintah Nonkementerian
+Lembaga Penerbangan dan Antariksa Nasional
+Lembaga Penerbangan dan Antariksa Nasional
+Lembaga Penyiaran Publik Radio Republik Indonesia
+Lembaga Penyiaran Publik Televisi Republik Indonesia
+Lembaga Perlindungan Saksi dan Korban
+Lembaga Produktivitas Nasional
+Lembaga Sandi Negara
+Lembaga Sandi Negara
+Lembaga Sensor Film
+Lemhannas
+Lemsaneg
+MA
+MK
+MPR
+Mahkamah Agung
+Mahkamah Konstitusi
+Majelis Disiplin Tenaga Kesehatan
+Majelis Permusyawaratan Rakyat
+Ombudsman Republik Indonesia
+PPATK
+Pemerintah Provinsi Aceh
+Pemerintah Provinsi Bali
+Pemerintah Provinsi Banten
+Pemerintah Provinsi Bengkulu
+Pemerintah Provinsi Daerah Istimewa Yogyakarta
+Pemerintah Provinsi Daerah Khusus Ibukota Jakarta
+Pemerintah Provinsi Gorontalo
+Pemerintah Provinsi Jambi
+Pemerintah Provinsi Jawa Barat
+Pemerintah Provinsi Jawa Tengah
+Pemerintah Provinsi Jawa Timur
+Pemerintah Provinsi Kalimantan Barat
+Pemerintah Provinsi Kalimantan Selatan
+Pemerintah Provinsi Kalimantan Tengah
+Pemerintah Provinsi Kalimantan Timur
+Pemerintah Provinsi Kepulauan Bangka Belitung
+Pemerintah Provinsi Kepulauan Riau
+Pemerintah Provinsi Lampung
+Pemerintah Provinsi Maluku
+Pemerintah Provinsi Maluku Utara
+Pemerintah Provinsi Nusa Tenggara Barat
+Pemerintah Provinsi Nusa Tenggara Timur
+Pemerintah Provinsi Papua
+Pemerintah Provinsi Papua Barat
+Pemerintah Provinsi Riau
+Pemerintah Provinsi Sulawesi Barat
+Pemerintah Provinsi Sulawesi Selatan
+Pemerintah Provinsi Sulawesi Tengah
+Pemerintah Provinsi Sulawesi Tenggara
+Pemerintah Provinsi Sulawesi Utara
+Pemerintah Provinsi Sumatera Barat
+Pemerintah Provinsi Sumatera Selatan
+Pemerintah Provinsi Sumatera Utara
+Pemprov Aceh
+Pemprov Bali
+Pemprov Banten
+Pemprov Bengkulu
+Pemprov DIY
+Pemprov DKI Jakarta
+Pemprov Gorontalo
+Pemprov Jabar
+Pemprov Jambi
+Pemprov Jateng
+Pemprov Jatim
+Pemprov Kalbar
+Pemprov Kalsel
+Pemprov Kalteng
+Pemprov Kaltim
+Pemprov Kep. Babel
+Pemprov Kepri
+Pemprov Lampung
+Pemprov Maluku
+Pemprov Malut
+Pemprov NTB
+Pemprov NTT
+Pemprov Papua
+Pemprov Papua Barat
+Pemprov Riau
+Pemprov Sulbar
+Pemprov Sulsel
+Pemprov Sulteng
+Pemprov Sultra
+Pemprov Sulut
+Pemprov Sumbar
+Pemprov Sumsel
+Pemprov Sumut
+Perpusnas RI
+Perpustakaan Nasional Republik Indonesia
+Perpustakaan Nasional Republik Indonesia
+Polri
+Pusat Pelaporan dan Analisis Transaksi Keuangan
+Sekretariat Kabinet
+Sekretariat Kabinet
+Setkab
+TNI
+Tentara Nasional Indonesia
+Tim Koordinasi Penanggulangan Kemiskinan
+UKP-4/UKPPPP
+Unit Kerja Presiden untuk Pengawasan dan Pengendalian Pembangunan
+Wanhan Pangan
+Wantannas
+Wantimpres
+AIPI
+Barnas
+Gerindra
+Golkar
+Golongan Karya
+Hanura
+Idaman
+Masyumi
+Nahdlatul Ulama
+PA
+PAAS
+PAN
+PBA
+PBB
+PBR
+PDA
+PDIP
+PDK
+PDP
+PDS
+PIB
+PIS
+PKB
+PKDI
+PKI
+PKNU
+PKP
+PKPB
+PKPI
+PKS
+PMB
+PNBK Indonesia
+PNI Marhaenisme
+PPD
+PPDI
+PPI
+PPNUI
+PPP
+PPPI
+PPRN
+PRA
+PSI
+Partai Abul Yatama
+Partai Aceh
+Partai Aceh
+Partai Aceh Aman Seujahtra
+Partai Aliansi Demokrat Indonesia
+Partai Amanat Nasional
+Partai Amanat Nasional
+Partai Barisan Nasional
+Partai Berkarya
+Partai Bersatu Aceh
+Partai Bhinneka Indonesia
+Partai Bhinneka Tunggal Ika Indonesia
+Partai Bintang Reformasi
+Partai Bintang Reformasi
+Partai Bulan Bintang
+Partai Bulan Bintang
+Partai Buruh
+Partai Buruh Nasional
+Partai Buruh Sosial Demokrat
+Partai Cinta Damai
+Partai Damai Aceh
+Partai Damai Sejahtera
+Partai Damai Sejahtera
+Partai Daulat Aceh
+Partai Daulat Rakyat
+Partai Demokrasi Indonesia
+Partai Demokrasi Indonesia Perjuangan
+Partai Demokrasi Indonesia Perjuangan
+Partai Demokrasi Kasih Bangsa
+Partai Demokrasi Kebangsaan
+Partai Demokrasi Kebangsaan
+Partai Demokrasi Pancasila
+Partai Demokrasi Pembaruan
+Partai Demokrasi Pembaruan
+Partai Demokrat
+Partai Garuda
+Partai Gerakan Indonesia Raya
+Partai Gerakan Indonesia Raya
+Partai Gerindra
+Partai Golkar
+Partai Golongan Karya
+Partai Golongan Karya
+Partai Hanura
+Partai Hati Nurani Rakyat
+Partai Hati Nurani Rakyat
+Partai Ikatan Pendukung Kemerdekaan Indonesia
+Partai Independen
+Partai Indonesia Baru
+Partai Indonesia Rakyat Bangkit
+Partai Indonesia Sejahtera
+Partai Islam Damai Aman
+Partai Islam Demokrat
+Partai Islam PERTI
+Partai Karya Peduli Bangsa
+Partai Karya Peduli Bangsa
+Partai Karya Perjuangan
+Partai Karya Republik
+Partai Kasih Demokrasi Indonesia
+Partai Katolik
+Partai Katolik Demokrat
+Partai Keadilan
+Partai Keadilan Sejahtera
+Partai Keadilan Sejahtera
+Partai Keadilan dan Persatuan
+Partai Keadilan dan Persatuan Indonesia
+Partai Keadilan dan Persatuan Indonesia
+Partai Kebangkitan Bangsa
+Partai Kebangkitan Bangsa
+Partai Kebangkitan Muslim Indonesia
+Partai Kebangkitan Nasional Ulama
+Partai Kebangkitan Nasional Ulama
+Partai Kebangkitan Ummat
+Partai Kebangsaan Merdeka
+Partai Kedaulatan
+Partai Kedaulatan Bangsa Indonesia Baru
+Partai Kekuatan Rakyat Indonesia
+Partai Kemakmuran Bangsa Nusantara
+Partai Kesatuan Demokrasi
+Partai Kongres
+Partai Kristen Indonesia
+Partai Kristen Nasional Indonesia
+Partai Masyumi Baru
+Partai Matahari Bangsa
+Partai Merdeka
+Partai Muslimin Indonesia
+Partai Musyawarah Kekeluargaan Gotong Royong
+Partai Musyawarah Rakyat Banyak
+Partai Nahdlatul Ulama
+Partai Nahdlatul Ummat
+Partai NasDem
+Partai Nasdem
+Partai Nasional Aceh
+Partai Nasional Bangsa Indonesia
+Partai Nasional Banteng Kemerdekaan
+Partai Nasional Benteng Kerakyatan Indonesia
+Partai Nasional Benteng Kerakyatan Indonesia
+Partai Nasional Demokrat
+Partai Nasional Indonesia
+Partai Nasional Indonesia - Front Marhaenis
+Partai Nasional Indonesia - Massa Marhaen
+Partai Nasional Indonesia - Supeni
+Partai Nasional Indonesia Marhaenisme
+Partai Nasional Indonesia Marhaenisme
+Partai Nasional Republik
+Partai Patriot
+Partai Patriot Pancasila
+Partai Peduli Rakyat Nasional
+Partai Peduli Rakyat Nasional
+Partai Pekerja Indonesia
+Partai Pelopor
+Partai Pemuda Indonesia
+Partai Penegak Demokrasi Indonesia
+Partai Penegak Demokrasi Indonesia
+Partai Penganut Thariqot Islam Negara
+Partai Pengusaha dan Pekerja Indonesia
+Partai Pengusaha dan Pekerja Indonesia
+Partai Perhimpunan Indonesia Baru
+Partai Perjuangan Indonesia Baru
+Partai Persatuan
+Partai Persatuan Daerah
+Partai Persatuan Daerah
+Partai Persatuan Demokrasi Kebangsaan
+Partai Persatuan Indonesia
+Partai Persatuan Nahdlatul Ummah Indonesia
+Partai Persatuan Nahdlatul Ummah Indonesia
+Partai Persatuan Nasional
+Partai Persatuan Pembangunan
+Partai Persatuan Pembangunan
+Partai Pilihan Rakyat
+Partai Politik Islam Indonesia Masyumi
+Partai Rakyat Aceh
+Partai Rakyat Demokratik
+Partai Rakyat Indonesia
+Partai Republik
+Partai Republik Perjuangan
+Partai Republik Satu
+Partai Republika Nusantara
+Partai Republika Nusantara
+Partai Sarikat Indonesia
+Partai Sarikat Indonesia
+Partai Satria Piningit
+Partai Serikat Rakyat Independen
+Partai Solidaritas Indonesia
+Partai Solidaritas Pekerja
+Partai Solidaritas Pekerja Seluruh Indonesia
+Partai Solidaritas Uni Nasional Indonesia
+Partai Suara Independen Rakyat Aceh
+Partai Syarikat Islam Indonesia
+Partai Syarikat Islam Indonesia 1905
+Partai Ummat Islam
+Partai Ummat Muslimin Indonesia
+Partai Uni Demokrasi Indonesia
+Perindo
+RepublikaN
+SIRA
+PNI
