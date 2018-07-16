@@ -15,6 +15,10 @@ Data yang Digunakan
 - File "gazetteers org.txt" dan "gazetteers place.txt" adalah data gazetteers entitas place dan organization mengambil data dari situs-situs web mengikuti Alfina et al. 2017
 - File "goldstandard-0811.txt" adalah data gold standard untuk menguji dataset NER Indonesia yang dibuat oleh Luthfi et al. 2014
 
+A. Luthfi, B. Distiawan, and R. Manurung. Building an indonesian named entity recognizer using wikipedia and dbpedia. In Asian Language Processing (IALP), 2014 International Conference on, pages 19–22. IEEE, 2014.
+
+I. Alfina, R. Manurung, and M. I. Fanany.  Dbpedia entities expansion in automatically building dataset for indonesian ner. In Advanced Computer Science and Information Systems (ICACSIS), 2016 International Conference on, pages 335–340. IEEE, 2016.
+
 Ika Alfina, Septiviana Savitri, and Mohamad Ivan Fanany, "Modified DBpedia Entities Expansion for Tagging Automatically NER Dataset", in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017. ICACSIS 2017. (accepted).
 
 https://www.researchgate.net/publication/320131070_Modified_DBpedia_Entities_Expansion_for_Tagging_Automatically_NER_Dataset 
@@ -43,7 +47,7 @@ Melakukan Pelabelan Otomatis:
 
 - File hasil eskpansi DBpedia yaitu "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ditambahkan isi filenya masing-masing sesuai jenis entitas dengan isi file "gazetteers person.txt", "gazetteers org.txt", dan "gazetteers place.txt".
 - Pindahkan file "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ke dalam satu folder dengan file "20k_wiki.txt" dan program "pelabelan_otomatis.py".
-- Lalu jalankan program untuk menghasilkan file diantaranya "20k_wiki_gazz.txt" sebagai hasil pembangunan dataset NER Indonesia secara otomatis. File "20k_wiki_gazz.txt" sudah saya upload pada github ini sebagai contoh ja
+- Lalu jalankan program untuk menghasilkan file diantaranya "20k_wiki_gazz.txt" sebagai hasil pembangunan dataset NER Indonesia secara otomatis. File "20k_wiki_gazz.txt" sudah saya upload pada github ini sebagai contoh hasil dataset NER Indonesia, karena membutuhkan waktu berjam-jam untuk menghasil data ini.
 
 Evaluasi Dataset NER Indonesia:
 
