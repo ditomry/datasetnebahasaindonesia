@@ -2,10 +2,10 @@ Membangun Dataset NER Indonesia Secara Otomatis Dari Data Wikipedia dan DBpedia 
 
 Format dataset sesuai dengan Stanford-NER (https://nlp.stanford.edu/software/CRF-NER.shtml) 
 Terdapat empat jenis entitas:
-  Person untuk nama orang
-  Place untuk nama tempat
-  Organisation untuk nama organisasi
-  O untuk other
+  - Person untuk nama orang
+  - Place untuk nama tempat
+  - Organisation untuk nama organisasi
+  - O untuk other
 
 Data yang Digunakan
 
