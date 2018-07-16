@@ -23,34 +23,33 @@ https://github.com/ialfina/ner-dataset-modified-dee
 Melakukan Ekspansi data DBpedia:
 
 - Parsing Data DBpedia:
-  - data DBpedia instance types yang di download pada link http://id.dbpedia.org/download/release/idwiki-20130508-instance-types.nt.gz
-Untuk Entitas Person:
+  - Data DBpedia instance types yang di download pada link http://id.dbpedia.org/download/release/idwiki-20130508-instance-types.nt.gz di ekstrak lalu dijadikan satu folder dengan program "parsing_DBpedia.py". 
+  - Lalu jalankan program untuk menghasilkan file "person.txt", "place.txt", dan "org.txt".
 
-How to create NER model using the dataset?
+- Ekspansi DBpedia Person:
+  - Pindahkan file "person.txt" dari hasil parsing DBpedia dan file "kbbi.txt" ke dalam satu folder dengan program "expansion_person.py". 
+  - Lalu jalankan program untuk menghasilkan file di antaranya "person_expansi_final.txt" sebagai hasil ekspansi DBpedia person dan file "add_organization.txt" untuk menambahkan referensi NE DBpedia organization.
+  
+- Ekspansi DBpedia Organization:
+  - Tambahkan isi file "add_organization.txt" dari hasil program ekspansi DBpedia person kedalam file "org.txt" hasil parsing DBpedia. 
+  - Pindahkan file "org.txt" dan "kbbi.txt" ke dalam satu folder dengan program "expansion_org.py". 
+  - Lalu jalankan program untuk menghasilkan file di antaranya "org_expansi_final.txt" sebagai hasil ekspansi DBpedia organization.
 
-You can use many methods to create NER model. One of them is using Stanford NER library.
-The steps to create NER model using Stanford NER library are as follows:
+- Ekspansi DBpedia Place:
+  - Pindahkan file "place.txt" dari hasil parsing DBpedia dan file "kbbi.txt" ke dalam satu folder dengan program "expansion_place.py". 
+  - Lalu jalankan program untuk menghasilkan file di antaranya "place_expansi_final.txt" sebagai hasil ekspansi DBpedia place.
 
-Download Stanford NER (https://nlp.stanford.edu/software/CRF-NER.shtml)
+Melakukan Pelabelan Otomatis:
 
-Download the dataset and its properties file (file with .prop extension)
+- File hasil eskpansi DBpedia yaitu "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ditambahkan isi filenya masing-masing sesuai jenis entitas dengan isi file "gazetteers person.txt", "gazetteers org.txt", dan "gazetteers place.txt".
+- Pindahkan file "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ke dalam satu folder dengan file "20k_wiki.txt" dan program "pelabelan_otomatis.py".
+- Lalu jalankan program untuk menghasilkan file diantaranya "20k_wiki_gazz.txt" sebagai hasil pembangunan dataset NER Indonesia secara otomatis. File "20k_wiki_gazz.txt" sudah saya upload pada github ini sebagai contoh ja
 
-Use Stanford NER classifier to create the model. 
-For example: 
-java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop 20k-mdee.prop 
+Evaluasi Dataset NER Indonesia:
 
-I recommend to increase heap size so you can train the dataset on computer with limited RAM. Add option like "-Xmx1024m" on the command, for example:
-
-java -Xmx1024m -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop 20k-mdee.prop 
-
-if this still doesn't work, increase the number. For example: "-Xmx8000m". This works for me :)
-
-Let say this step will create a NER model file named "idner-model-20k-mdee.ser.gz"
-
-Create or use a testing dataset. Lets say the file name is "testing.txt"
-
-Evaluate the NER model using Stanford NER library 
-For example:
-java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier idner-model-20k-mdee.ser.gz -testFile testing.txt
-
-Good Luck :)
+- Download program Stanford NER (https://nlp.stanford.edu/software/CRF-NER.shtml)
+- Ekstrak file program yang nantinya akan menghasilkan folder program.
+- Pindahkan file "20k_wiki_gazz.txt", "goldstandard-0811.txt", dan "20k_wiki_gazz.prop" pada folder program tersebut.
+- Buka cmd lalu arahkan pada folder program.
+- Jalankan "java -Xmx8000m -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop 20k_wiki_gazz.prop" untuk membuat model NER dengan Stanford NER. Nantinya akan menghasilkan file model NER "idner-model-20k_wiki_gazz.ser.gz"
+- Terakhir jalankan "java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier idner-model-20k_wiki_gazz.ser.gz -outputFormat tabbedEntities -testFile goldstandard-0811.txt > idner-model-20k_wiki_gazz.tsv" untuk menghasilkan akurasi precision, recall, dan F1-score.
