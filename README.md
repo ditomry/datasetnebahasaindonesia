@@ -59,5 +59,5 @@ Evaluasi Dataset NER Indonesia:
 - Ekstrak file program yang nantinya akan menghasilkan folder program.
 - Pindahkan file "20k_wiki_gazz.txt", "goldstandard-0811.txt", dan "20k_wiki_gazz.prop" pada folder program tersebut.
 - Buka cmd lalu arahkan pada folder program.
-- Jalankan "java -Xmx8000m -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop 20k_wiki_gazz.prop" untuk membuat model NER dengan Stanford NER. Nantinya akan menghasilkan file model NER "idner-model-20k_wiki_gazz.ser.gz"
+- Jalankan "java -Xmx8000m -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop 20k_wiki_gazz.prop" untuk membuat model NER dengan Stanford NER. Nantinya akan menghasilkan file model NER "idner-model-20k_wiki_gazz.ser.gz". Contoh hasil model NER dapat di download pada link dropbox https://www.dropbox.com/s/s9yctsfepgaii2u/idner-model-20k_wiki_gazz.ser.gz?dl=0. Saya upload juga model NER hasilnya sebagai contoh, karena dengan komputer spesifikasi yang cukup besar: "CPU Xeon E3" dan "RAM 32 GB" membutuhkan waktu sekitar 1 jam untuk membangun model NERnya.  
 - Terakhir jalankan "java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier idner-model-20k_wiki_gazz.ser.gz -outputFormat tabbedEntities -testFile goldstandard-0811.txt > idner-model-20k_wiki_gazz.tsv" untuk menghasilkan akurasi precision, recall, dan F1-score.
