@@ -15,13 +15,16 @@ Data yang Digunakan
 - File "gazetteers org.txt" dan "gazetteers place.txt" adalah data gazetteers entitas place dan organization mengambil data dari situs-situs web mengikuti Alfina et al. 2017
 - File "goldstandard-0811.txt" adalah data gold standard untuk menguji dataset NER Indonesia yang dibuat oleh Luthfi et al. 2014
 
-
-
 Ika Alfina, Septiviana Savitri, and Mohamad Ivan Fanany, "Modified DBpedia Entities Expansion for Tagging Automatically NER Dataset", in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017. ICACSIS 2017. (accepted).
 
 https://www.researchgate.net/publication/320131070_Modified_DBpedia_Entities_Expansion_for_Tagging_Automatically_NER_Dataset 
 https://github.com/ialfina/ner-dataset-modified-dee
 
+Melakukan Ekspansi data DBpedia:
+
+- Parsing Data DBpedia:
+  - data DBpedia instance types yang di download pada link http://id.dbpedia.org/download/release/idwiki-20130508-instance-types.nt.gz
+Untuk Entitas Person:
 
 How to create NER model using the dataset?
 
