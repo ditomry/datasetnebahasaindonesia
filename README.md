@@ -26,6 +26,8 @@ https://github.com/ialfina/ner-dataset-modified-dee
 
 Melakukan Ekspansi data DBpedia:
 
+Program entities expansion yang dibuat mengimplementasikan metode DBpedia Entities Expansion Alfina et al. 2016, 2017 yang ditambahkan dan dimodifikasi aturannya pada ekspansi entitas place dan person.
+
 - Parsing Data DBpedia:
   - Data DBpedia instance types yang di download pada link http://id.dbpedia.org/download/release/idwiki-20130508-instance-types.nt.gz di ekstrak lalu dijadikan satu folder dengan program "parsing_DBpedia.py". 
   - Lalu jalankan program untuk menghasilkan file "person.txt", "place.txt", dan "org.txt".
@@ -44,6 +46,8 @@ Melakukan Ekspansi data DBpedia:
   - Lalu jalankan program untuk menghasilkan file di antaranya "place_expansi_final.txt" sebagai hasil ekspansi DBpedia place.
 
 Melakukan Pelabelan Otomatis:
+
+Program pelabelan otomatis mengimplementasikan metode pelabelan otomatis penelitian sebelumnya (Alfina et al. 2016, 2017 dan Luthfi et al. 2014) yang ditambahkan metode deteksi nama yang mengandung kata diawali huruf kecil, contohnya "Ali bin Abi Thalib" dapat di deteksi sebagai satu nama yang lengkap. Pada pelabelan otomatis sebelumnya yang terdeteksi hanya "Ali" dan "Abi Thalib", sedangkan "bin" dikecualikan.
 
 - File hasil eskpansi DBpedia yaitu "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ditambahkan isi filenya masing-masing sesuai jenis entitas dengan isi file "gazetteers person.txt", "gazetteers org.txt", dan "gazetteers place.txt".
 - Pindahkan file "person_expansi_final.txt", "org_expansi_final.txt", dan "place_expansi_final.txt" ke dalam satu folder dengan file "20k_wiki.txt" dan program "pelabelan_otomatis.py".
