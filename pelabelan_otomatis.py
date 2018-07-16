@@ -170,7 +170,7 @@ with open("20k_wiki_pelabelan 2_2.txt", 'r+') as f, open('20k_wiki_pelabelan 2_3
 				outfile.write(line + "\n")
 		i+=1
 
-with open("20k_wiki_pelabelan 2_3.txt", 'r+') as f, open('20k_wiki_pelabelan 2_akhir.txt', 'w+') as outfile:
+with open("20k_wiki_pelabelan 2_3.txt", 'r+') as f, open('20k_wiki_gazz.txt', 'w+') as outfile:
 	lines = f.read().split("\n")
 	i=0
 	while i < len(lines):
