@@ -1,27 +1,27 @@
-ner-dataset-modified-dee
-Dataset to be used in Building the Indonesian NER 
-(Dataset untuk Membangun Named Entity Recognizer (NER) untuk Bahasa Indonesia) 
+Membangun Dataset NER Indonesia Secara Otomatis Dari Data Wikipedia dan DBpedia dengan Metode Entities Expansion pada DBpedia
 
-The dataset conforms with dataset format of Stanford-NER (https://nlp.stanford.edu/software/CRF-NER.shtml) 
-Four classes are used:
+Format dataset sesuai dengan Stanford-NER (https://nlp.stanford.edu/software/CRF-NER.shtml) 
+Terdapat empat jenis entitas:
+  Person untuk nama orang
+  Place untuk nama tempat
+  Organisation untuk nama organisasi
+  O untuk other
 
-PERSON for person names
-PLACE for place names
-ORG for organizaion names
-Other
-The dataset may be used for free, but if you want to publish paper/publication using the dataset, please cite this publication: 
+Data yang Digunakan
+
+- File "20k_wiki.txt" berisi token-token NE Wikipedia Indonesia yang dibuat Alfina et al. 2016 sebagai sumber korpus dataset NER.
+- Untuk referensi pelabelan NE menggunakan data DBpedia instance types yang di download pada link http://id.dbpedia.org/download/release/idwiki-20130508-instance-types.nt.gz
+- File "gazetteers person.txt" adalah data gazetteers entitas person terdiri dari 4.190 nama orang daftar KTP elektronik Kota Palangkaraya yang sudah dicetak sampai dengan 29 Maret 2017, https://dukcapil.palangkaraya.go.id/index.php/pages/category/4-dokumen
+- File "gazetteers org.txt" dan "gazetteers place.txt" adalah data gazetteers entitas place dan organization mengambil data dari situs-situs web mengikuti Alfina et al. 2017
+- File "goldstandard-0811.txt" adalah data gold standard untuk menguji dataset NER Indonesia yang dibuat oleh Luthfi et al. 2014
+
+
 
 Ika Alfina, Septiviana Savitri, and Mohamad Ivan Fanany, "Modified DBpedia Entities Expansion for Tagging Automatically NER Dataset", in Proceeding of 9th International Conference on Advanced Computer Science and Information Systems 2017. ICACSIS 2017. (accepted).
 
 https://www.researchgate.net/publication/320131070_Modified_DBpedia_Entities_Expansion_for_Tagging_Automatically_NER_Dataset 
+https://github.com/ialfina/ner-dataset-modified-dee
 
-We provide three versions of NER dataset as we explained on the paper:
-
-dataset created using original DEE (our previous project), file name: 20k-dee.txt, with properties file: 20k-dee.prop
-dataset created using Modified DEE (our project), file name: 20k-mdee.txt, with properties file: 20k-mdee.prop
-dataset created using Modified DEE plus gazettes (our project), file name: 20k-mdee-gazz.txt, with properties file: 20k-mdee-gazz.prop
-
-Each version of dataset consist of 20,000 sentences from Wikipedia articles in the Indonesian language that were labeled automatically. 
 
 How to create NER model using the dataset?
 
